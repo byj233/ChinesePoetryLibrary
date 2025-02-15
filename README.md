@@ -1,6 +1,9 @@
 # ChinesePoetryLibrary
 收录超80w中国古诗文，进行了AI鉴赏、去重处理，统一数据格式，并提供4096维度的向量数据，以json格式给出
 
+# 最新版请查看
+https://huggingface.co/datasets/byj233/ChinesePoetry-embedding
+
 ## 参数格式
 
 ```json
