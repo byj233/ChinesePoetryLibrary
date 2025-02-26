@@ -15,7 +15,7 @@ https://huggingface.co/datasets/byj233/ChinesePoetryLibrary
     "title": "string", // 标题
     "content": "string", // 正文
     "translation": "string", // 译文
-    "apprecation": "string", // 赏析
+    "appreciation": "string", // 赏析
     "explanation1": [
         {
             "word": "string", // 字词,
